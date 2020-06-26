@@ -13,3 +13,11 @@ textView.placeHolder = "PlaceHolderTextView"
 textView.placeHolderColor = .gray
 
 (```)
+
+
+---------
+
+* 
+contact us:luomobancheng@gmail.com 
+
+*
